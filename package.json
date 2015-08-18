@@ -1,0 +1,11 @@
+{
+  "name": "email_filter",
+  "version": "0.0.1",
+  "description": "Removes all duplicates from an unsorted list of email addresses while leaving the remaining list in the original order.",
+  "author": "Steven Goodwin",
+  "private": true,
+
+  "scripts": {
+    "start": "node --harmony app.js"
+  }
+}
